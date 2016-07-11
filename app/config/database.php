@@ -55,9 +55,9 @@ return array(
         'mysql' => array(
             'driver'    => 'mysql',
         	'host'      => 'localhost',
-            'database'  => 'taxidemo',
+            'database'  => 'ojekweb',
             'username'  => 'root',
-            'password'  => 'maswahyu1',
+            'password'  => 'root',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
